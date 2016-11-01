@@ -1,7 +1,7 @@
 Analyzer
 =====
 
-Analyzer is a demo Xamarin project that covers Computer Vision API, which analyze an image and returns rich information.
+Analyzer is a demo Xamarin project that covers Microsoft Computer Vision Api, which analyze an image and returns rich information.
 
 Prerequisites
 -------------------
