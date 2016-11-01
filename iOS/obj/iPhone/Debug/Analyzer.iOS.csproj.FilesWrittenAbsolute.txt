@@ -1,0 +1,14 @@
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/optimized/ic_add_white.png
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/optimized/
+/Users/beray/Projects/Analyzer/iOS/bin/iPhone/Debug/Analyzer.iOS.exe.mdb
+/Users/beray/Projects/Analyzer/iOS/bin/iPhone/Debug/Analyzer.iOS.exe
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/Analyzer.iOS.exe
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/Analyzer.iOS.exe.mdb
+/Users/beray/Projects/Analyzer/iOS/bin/iPhone/Debug/Microsoft.ProjectOxford.Vision.dll
+/Users/beray/Projects/Analyzer/iOS/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/beray/Projects/Analyzer/iOS/bin/iPhone/Debug/Analyzer.dll
+/Users/beray/Projects/Analyzer/iOS/bin/iPhone/Debug/Analyzer.dll.mdb

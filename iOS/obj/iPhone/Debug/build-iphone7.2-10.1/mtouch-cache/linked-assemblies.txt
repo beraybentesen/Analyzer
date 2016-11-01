@@ -1,0 +1,14 @@
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/System.Runtime.Serialization.dll
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/Microsoft.ProjectOxford.Vision.dll
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/System.Xml.Linq.dll
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/System.dll
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/System.Xml.dll
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/System.Core.dll
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/Analyzer.iOS.exe
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/mscorlib.dll
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/Newtonsoft.Json.dll
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/Analyzer.dll
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/Mono.CSharp.dll
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
+/Users/beray/Projects/Analyzer/iOS/obj/iPhone/Debug/build-iphone7.2-10.1/mtouch-cache/Link/Microsoft.CSharp.dll

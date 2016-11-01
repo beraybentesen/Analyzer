@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{EB155CC4-7B45-4B69-A5D3-52D14101B4CA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Analyzer/ClientHelper.cs">
+    <Files>
+      <File FileName="Analyzer/ClientHelper.cs" Line="13" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Analyzer.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.69C8B5C0-FF7D-4814-AD07-FAA025EB2BBA" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
